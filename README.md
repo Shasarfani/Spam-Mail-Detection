@@ -1,4 +1,4 @@
-# Email Spam Prediction Model
+# Email Spam Detection Model
 
 This project focuses on the development of an email spam prediction model using logistic regression. 
 
